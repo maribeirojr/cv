@@ -23,3 +23,7 @@
             height: 0px;
             width: 79%;
         }
+
+        .circular {
+        border-radius: 100%;
+        }
